@@ -15,3 +15,6 @@ Vcc Pin of TTP223 Capacitive Touch Sensor - Arduino 5V
 GND Pin of TTP223 Capacitive Touch Sensor- Arduino GND 
 LED positive pin - Arduino Digial Pin D13
 LED negative pin - Arduino Ground Pin
+
+# Hands On
+https://youtu.be/8N6VmzYhxDU
